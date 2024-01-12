@@ -18,4 +18,4 @@ The task is to implement a simple algorithm to find the **Second Biggest Number*
 ## Good Luck! 
 
 For those who do not have pytest yet just simply install by:
-- pip install pytest
+- `pip install pytest`
